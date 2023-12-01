@@ -12,6 +12,9 @@ div.container p:last-child{
 div.container p:nth-child(2){
 	color:black;
 }
+div.container p:nth-child(3){
+	color:black;
+}
 ul>li{
 	background-color:grey;
 	width:50%;
